@@ -1,4 +1,4 @@
-# XR-immersive-classroom
+# Educational Metaverse(Immersive Classroom)
 
 Information:-
 With this immersive classroom platform, students can experience their education in more immersive and engaging ways. We transport students from their desks to the Roman ruins to show them history or let them mix volatile chemicals and see the reaction without being physically harmed, or even see how the heart functions visually. 
